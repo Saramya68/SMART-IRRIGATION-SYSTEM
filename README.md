@@ -1,63 +1,7 @@
-# SMART-IRRIGATION-SYSTEM
-Overview
+SMART IRRIGATION SYSTEM
+This project is an Arduino-based greenhouse automation system that monitors soil moisture, temperature, and light intensity. Based on real-time sensor data, it automatically waters plants, controls temperature using a fan, and provides lighting when needed. The system reduces manual effort and ensures optimal conditions for plant growth.
+=> Project Link:
+https://www.tinkercad.com/things/1wxqytu8Yn7-project-1
 
-This project implements an automated greenhouse system using sensors and an Arduino. It monitors environmental conditions like soil moisture, temperature, and light intensity, and automatically adjusts them to support optimal plant growth.
-
-**Key Features
-
-Automatic Watering: Activates sprinkler when soil is dry
-
-Temperature Control: Turns on fan when temperature is high
-
-Light Control: Switches on LED when light is insufficient
-
-Real-Time Monitoring: Displays data on an LCD screen
-
-**Components Used
-
-Soil Moisture Sensor
-
-TMP36 Temperature Sensor
-
-LDR (Light Sensor)
-
-Arduino Board
-
-Servo Motor (Sprinkler)
-
-DC Motor (Fan)
-
-LED
-
-16x2 LCD Display
-
-** Working Principle
-
-The system continuously reads data from sensors and makes decisions based on predefined conditions:
-
-Low moisture → Watering activated
-
-High temperature → Fan turned ON
-
-Low light → LED turned ON
-
-All values are displayed on the LCD for easy monitoring.
-
-**Applications
-
-Smart agriculture
-
-Automated gardening
-
-Greenhouse management
-
-** Future Scope
-
-IoT-based remote monitoring
-
-Mobile app integration
-
-Additional sensors for better control
-
-**Preview
-<img width="1283" height="662" alt="image" src="https://github.com/user-attachments/assets/97acdd1c-babe-4a6b-8d87-5c402fb7df78" />
+=>Project Image:
+<img width="1283" height="662" alt="Screenshot 2026-03-18 194713" src="https://github.com/user-attachments/assets/d8d88b39-1e08-4bdb-b455-219b848ed23d" />
